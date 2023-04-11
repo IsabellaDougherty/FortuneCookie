@@ -2,10 +2,11 @@
 'RCET0265
 'Spring 2023
 'Fortune Cookie
-'https://github.com/IsabellaDougherty/github.git
+'https://github.com/IsabellaDougherty/FortuneCookie.git
 
 
 Option Explicit On
+Option Strict On
 
 
 Imports System
